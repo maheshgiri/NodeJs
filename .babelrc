@@ -1,0 +1,3 @@
+{
+    "presets": ["@babe/presets-env"]
+}
